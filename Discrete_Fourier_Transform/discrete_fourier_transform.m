@@ -1,7 +1,7 @@
 clc;clear all; close all; 
  
 %Code by: circuitpotato
-%Visit downtothecircuits.wordpress.com for more information
+%Visit downtothecircuits.com for more information
  
 %Purpose: This code example shows the conversion of a time domain sampled 
 %signal to frequency domain using Discrete Fourier Transform
