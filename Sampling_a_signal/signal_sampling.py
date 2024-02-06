@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
  
 #Code by: circuitpotato
-#Visit downtothecircuits.wordpress.com for more information
+#Visit downtothecircuits.com for more information
  
 #Purpose: This code example shows us how to sample a sine wave signal.
 #It is advisable to play with the different specifications to get a feel of
